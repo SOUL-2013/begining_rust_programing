@@ -4,7 +4,7 @@ fn main(){
  
      println!("old score: {}", score);
 
-     let score = 200;
+     score = 200;
 
      println!("new score: {}" , score);
 }
