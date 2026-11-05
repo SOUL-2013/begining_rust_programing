@@ -15,7 +15,7 @@ fn main(){
 
     println!("old marks:{}",marks);
 
-    let marks = 90;
+    marks = 90;
 
     println!("updated marks :{}",marks);
     println!("maximum marks :{}",MAX_MARKS);
